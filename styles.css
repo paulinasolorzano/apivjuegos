@@ -1,0 +1,18 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.game {
+    border: 1px solid #ddd;
+    padding: 16px;
+    margin: 16px auto;
+    width: 80%;
+    max-width: 400px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
